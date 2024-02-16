@@ -32,6 +32,7 @@ Use the provided sample JSON data to render a form dynamically.
 
 ## How to Run
 * Clone the repository:
+```bash
 git clone https://github.com/MoumitaMurmu/form-designer.git
 
 * Open the index.html file in a web browser or host it on platforms like GitHub Pages or Netlify.

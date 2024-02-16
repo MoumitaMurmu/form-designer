@@ -50,7 +50,7 @@ git clone https://github.com/MoumitaMurmu/form-designer.git
 
 ![SelectInput](https://github.com/MoumitaMurmu/form-designer/assets/69195751/f68283c4-4fa4-49b1-9487-d6118f8de967)
 
-##JSON Data
+## JSON Data
 
 ![jsonData](https://github.com/MoumitaMurmu/form-designer/assets/69195751/20a347fa-638e-4caf-8645-1142ecefad3e)
 

@@ -1,0 +1,73 @@
+
+body{
+    background-color: #1f1f38;
+     color: blanchedalmond;
+    font-family: "Roboto", sans-serif;
+}
+/* Styles for the drag handle used for reordering form elements */
+
+#form {
+    background-color: #632c65;
+    color: gold;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.5), 0px 12px 20px rgba(0, 0, 0, 0.15)!important;
+
+}
+
+.drag-handle {
+    cursor: grab;        /* Change cursor on hover to indicate draggable */
+    display: block;      
+    margin-right: 5px;   
+    color: #007bff;      
+}
+
+/* Styles for the form elements */
+.form-element {
+    cursor: grab;        
+    display: block;      
+    margin-bottom: 5px;  
+    position: relative;  /* Set position relative for absolute positioning of drag handle */
+}
+
+/* Styles for the drag handle within a form element */
+.form-element .drag-handle {
+    cursor: grab;        
+    position: absolute;  
+    top: 5px;            
+    right: 5px;          
+}
+
+/* Styles for the heading section */
+#heading-div {
+    display: flex;       /* Use flexbox for layout */
+    flex-direction: row; 
+    justify-content: space-between; 
+}
+
+/* Styles for the Save button */
+#btn {
+    width: 100px;       
+}
+
+/* Landing page styles */
+ 
+#landing-nav{
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around; 
+    width: 200px;
+    font-size: 18px;
+    font-weight: 600;
+    
+    }
+   
+    #form-head{
+       color: hsl(79.74deg 60.78% 50%);
+       font-weight: 600;
+    }
+
+/* Responsive styles for smaller screens (up to 576px) */
+@media (max-width: 576px) {
+    .container {
+        margin-top: 20px; 
+    }
+}

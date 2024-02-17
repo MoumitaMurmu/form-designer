@@ -29,7 +29,8 @@ git clone https://github.com/MoumitaMurmu/form-designer.git
 * Click the "Save" button to log the updated JSON data in the browser console.
 
 ## Live Demo
-* You can check out a live demo of the Form Designer here : https://moumitamurmu.github.io/form-designer/index.html
+* You can check out a live demo of the Form Designer here :
+*  https://moumitamurmu.github.io/form-designer/index.html
 
 ## Acknowledgments
 * Special thanks to Bootstrap for the responsive design components.
